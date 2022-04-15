@@ -91,7 +91,6 @@ section{
     transform: scale(1.1, 1.1);
     
 }
-
 .ingresos{
     padding: 30px;
     text-align: center;
@@ -198,6 +197,9 @@ iframe{
     text-align: center;
 }
 
+.footerProductosBs{
+    margin-top: 0;
+}
 /*Media Queries*/
 
 @media only screen and (max-width:768px){
